@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NT Campinas - 830 AM</string>
+    <string name="action_settings">Settings</string>
+    <string name="informacoes">Informações do Sistemas</string>
+    <string name="Volume">Volume:</string>
+    <string name="Play">Tocar Música</string>
+    <string name="boneco">Boneco de Fundo</string>
+    <string name="txt_sair">Informação do Sistema</string>
+    <string name="logo">Logo do Sistema</string>
+    <string name="stop">Parar Música</string>
+    <string name="facebook">Acesse Nossa FanPage</string>   
+    <string name="twitter">Notícias no Twitter</string>
+    <string name="youtube">Assista nossos vídeos</string>  
+    <string name="feed">Veja nossas notícias</string>  
+
+</resources>
